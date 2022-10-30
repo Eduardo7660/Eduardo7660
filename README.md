@@ -17,6 +17,5 @@
   <a title='Email: eduardo.oliveira7660@gmail.com' target="_blank" href="mailto:eduardo.oliveira7660@gmail.com">
   </a> 
 </div>
-<div>
+
 ![Snake animation](https://github.com/eduardo7660/eduardo7660/blob/output/github-contribution-grid-snake.svg)
-  </div>
